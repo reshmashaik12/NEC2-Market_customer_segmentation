@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Gender,Age,Annual Income (₹),Spending Score
+1,Rahul Sharma,Male,19,150000,39
+2,Priya Reddy,Female,21,180000,81
+3,Arjun Kumar,Male,20,160000,6
+4,Sneha Patel,Female,23,200000,77
+5,Vikram Singh,Male,31,350000,40
+6,Anjali Verma,Female,22,220000,76
+7,Rohit Gupta,Male,35,450000,6
+8,Pooja Nair,Female,23,230000,94
+9,Karthik Rao,Male,64,190000,3
+10,Meera Joshi,Female,30,420000,72
+11,Akhil Reddy,Male,24,260000,14
+12,Divya Sharma,Female,22,240000,99
+13,Sai Kumar,Male,58,180000,15
+14,Neha Patel,Female,24,250000,77
+15,Ramesh Singh,Male,37,500000,13
+16,Kavya Nair,Female,22,260000,79
+17,Harsha Rao,Male,35,480000,35
+18,Shreya Gupta,Female,20,170000,66
+19,Nikhil Verma,Male,52,300000,29
+20,Ananya Reddy,Female,35,490000,98
